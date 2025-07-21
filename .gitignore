@@ -28,7 +28,6 @@
 *.psess
 *.vsw
 *.code-workspace
-
 # Build artifacts
 [Bb]in/
 [Oo]bj/
