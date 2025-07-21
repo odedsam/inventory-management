@@ -1,0 +1,126 @@
+<<<<<<< HEAD
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ilk
+*.idb
+*.log
+*.ncb
+*.opendb
+*.aps
+*.bsc
+*.sbr
+*.res
+*.pch
+*.ipch
+*.tlog
+*.lastbuildstate
+*.vcproj.filters
+*.vcxproj.user
+*.sln.docstates
+*.vsp
+*.vspx
+*.psess
+*.vsw
+*.code-workspace
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.kproj
+*.user
+*.lock.json
+project.json.lock
+artifacts/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.nuget/
+NuGetScratch/
+
+# Rider IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.csproj.DotSettings
+*.sln.DotSettings
+
+# Visual Studio Code files
+.vscode/
+# Resharper files
+*.DotSettings.user
+
+# Coverlet files
+coverage.json
+coverage.xml
+
+# Test results
+TestResults/
+*.trx
+
+# User-specific files
+*.userprefs
+
+# Local settings files
+local.settings.json
+
+# Azure Functions
+host.json
+proxies.json
+
+# Mac specific files
+.DS_Store
+
+# Misc
+*.bak
+*.orig
+*.scc
+*.vspscc
+*.vssscc
+*.vsscc
+*.tmp
+*.temp
+*.swp
+*.swo
+*.swn
+*.swo
+*.swp
+*~
+# Ignore all files in the root that start with 'App_' and end with '.config'
+App_*.config
+
+# Ignore all files in the root that start with 'Web.' and end with '.config'
+Web.*.config
+
+# Ignore all files in the root that start with 'packages.' and end with '.config'
+packages.*.config
+
+# Ignore all files in the root that start with 'Settings.' and end with '.settings'
+Settings.*.settings
+
+# Ignore all files in the root that start with 'ServiceReferences.' and end with '.ClientConfig'
+ServiceReferences.*.ClientConfig
+
+# Ignore all files in the root that start with 'SolutionItems.' and end with '.suo'
+SolutionItems.*.suo
+
+# Ignore all files in the root that start with 'TestResults.' and end with '.trx'
+TestResults.*.trx
+
+# Ignore all files in the root that start with 'Thumbs.db'
+Thumbs.db
+
+# Ignore all files in the root that start with 'desktop.ini'
+desktop.ini
+=======
+
